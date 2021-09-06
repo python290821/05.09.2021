@@ -8,5 +8,5 @@ Targilim -- itayhau@gmail.com
      check if the number has 2 digits, if so print the ahadot digit
      you MUST use 1 if (+and) 
 4. input a number from the user
-     check if the number ahadot and asarot digit are equal
+     check if the number ahadot and asarot digit are equal and they are (both) above 1
      you MUST use 1 if (+and)          
